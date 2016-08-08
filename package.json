@@ -1,0 +1,25 @@
+{
+  "name": "react-fastscroll",
+  "version": "0.0.1",
+  "description": "Infinite list view component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonwwl/react-fastscroll.git"
+  },
+  "keywords": [
+    "react",
+    "inifinite",
+    "scroll",
+    "listview"
+  ],
+  "author": "JasonWang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonwwl/react-fastscroll/issues"
+  },
+  "homepage": "https://github.com/jasonwwl/react-fastscroll#readme"
+}
